@@ -1,0 +1,1 @@
+vboxadd:x:999:1::/var/run/vboxadd:/bin/nologin
