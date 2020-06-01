@@ -1,3 +1,3 @@
-rabbit:dp-rabbitmq-cluster-headless.default.svc.cluster.local:52.186.43.137
-mariadb:dp-mariadb-cluster-mariadb-galera-headless.default.svc.cluster.local:52.142.26.107
+rabbit:test-rabbitmq-cluster-headless.default.svc.cluster.local:52.149.168.200
+mariadb:test-mariadb-cluster-mariadb-galera-headless.default.svc.cluster.local:52.142.37.193
 webserver:52.186.92.77
