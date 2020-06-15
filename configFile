@@ -1,4 +1,4 @@
 rabbit:test-rabbitmq-cluster-headless.default.svc.cluster.local:52.146.52.186
-mariadb:test-mariadb-cluster-mariadb-galera-headless.default.svc.cluster.local:52.191.92.104
+mariadb:new-mariadb-cluster-mariadb-galera-headless.default.svc.cluster.local:52.147.218.193
 webserver:52.186.92.77
 #test-mariadb-cluster-mariadb-galera-headless.default.svc.cluster.local
